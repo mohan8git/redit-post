@@ -9,6 +9,7 @@ const ListCard = ({ resultFromApi }) => {
       {React.createElement(icon)}
       {text}
 
+
     </Space>
   );
 
