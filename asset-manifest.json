@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mohan8git/redit-post.git/static/css/main.2a71629a.css",
+    "main.js": "/mohan8git/redit-post.git/static/js/main.47534a09.js",
+    "index.html": "/mohan8git/redit-post.git/index.html",
+    "main.2a71629a.css.map": "/mohan8git/redit-post.git/static/css/main.2a71629a.css.map",
+    "main.47534a09.js.map": "/mohan8git/redit-post.git/static/js/main.47534a09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a71629a.css",
+    "static/js/main.47534a09.js"
+  ]
+}
