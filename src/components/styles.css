@@ -1,0 +1,47 @@
+.App-header {
+  background-color: rgb(211, 211, 211);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  position: relative;
+  padding-top: 20px;
+}
+
+.green-button {
+  background-color: #57aa57;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  margin: 10px;
+}
+.green-button:hover {
+  background-color: #659265 !important;
+}
+.red-button:hover {
+  background-color: #cd9594 !important;
+}
+.red-button {
+  background-color: #bd7d7c;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.main-header {
+  overflow-x: auto;
+  white-space: nowrap;
+  width: auto;
+}
